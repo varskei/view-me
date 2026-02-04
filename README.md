@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Untitled Project-1.png" width="700" height="300">
+<img src="Untitled Project-1.png" width="700" height="400">
 
 #### $\color{cyan}{\text{﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏}}$
 
@@ -14,5 +14,7 @@
 #### $\color{cyan}{\text{﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏}}$
 
 # [Interact less lists (IWC)](https://github.com/varskei/varskei/blob/main/iwc.md)
+
+#### $\color{teal}{\text{might look bad, im not really that good at coding}}$ 
 
 </div>
