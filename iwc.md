@@ -1,7 +1,5 @@
 <div align="center">
-
-###### # view-me
-
+  
 # ┆︎ If you're one of these, interact less with me ┆︎
 ### **﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏**
 
@@ -19,8 +17,6 @@ abuses animals, rapes animals, and hunt animals as a hobby
 likes feces and urine fetish on any creature or people
 ### **﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏**
 
-# ┆︎ alright, that's all ok bye ┆︎
+# ┆︎ end ┆︎
 ![sleeps](source.gif)
-
-I only follow people who seem friendly to me.
 </div>
